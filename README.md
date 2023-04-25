@@ -21,3 +21,12 @@ Classifying estimated levels of obesity
 - Data Visualization
 - Feature Selection and Balancing of Data
 - Machine Learning 
+
+
+##### Critical inferential analysis employed 
+- To increase accuracy
+- To reduce High Variance 
+- I obtained more training examples by oversampling on the minority class using SMOTE
+- I reduced the feature space by using a smaller set of features yet obtaining the same classification accuracy
+- I combined weight and height into BMI (Feature Engineering)
+- I implemented Feature Scaling on Age and BMI variables in the training set
