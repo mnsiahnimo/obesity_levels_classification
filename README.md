@@ -24,9 +24,10 @@ Classifying estimated levels of obesity
 
 
 ##### Critical inferential analysis employed 
-- To increase accuracy
-- To reduce High Variance 
+###### To increase accuracy and reduce High Variance 
 - I obtained more training examples by oversampling on the minority class using SMOTE
 - I reduced the feature space by using a smaller set of features yet obtaining the same classification accuracy
+
+###### Feature Engineering that improved accuracy
 - I combined weight and height into BMI (Feature Engineering)
 - I implemented Feature Scaling on Age and BMI variables in the training set
